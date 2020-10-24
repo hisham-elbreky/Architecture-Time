@@ -20,4 +20,4 @@ TBD
 
 ## EA Integration (Initial Model) 
 ![integration model](https://github.com/hisham-elbreky/Architecture-Time/blob/main/Diagrams/Integration%20Services%20Model.png)
-please refer to (integratin principles](https://github.com/hisham-elbreky/open-architecture-principles/blob/main/4%20Integration%20Architecture%20Principles.md) 
+please refer to [integratin principles](https://github.com/hisham-elbreky/open-architecture-principles/blob/main/4%20Integration%20Architecture%20Principles.md) 
