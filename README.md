@@ -19,6 +19,8 @@ TBD
 ![app layers](https://github.com/hisham-elbreky/Architecture-Time/blob/main/Diagrams/Architecture%20Time%20-%20App%20Layers.png)
 
 ## EA Integration (Initial Model) 
+
 please refer to [integratin principles](https://github.com/hisham-elbreky/open-architecture-principles/blob/main/4%20Integration%20Architecture%20Principles.md) 
+
 ![integration model](https://github.com/hisham-elbreky/Architecture-Time/blob/main/Diagrams/Integration%20Services%20Model.png)
 
