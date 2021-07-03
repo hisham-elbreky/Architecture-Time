@@ -2,7 +2,7 @@
 Architecture Time Episodes 
 
 ## Architecture Scope
-![arch scope](https://github.com/hisham-elbreky/Architecture-Time/blob/main/Diagrams/Arch%20Scopes.png)
+TBD
 
 ## Reference Architecture (Layered Block Diagram)
 ![Reference Architecture (block diagram)](https://github.com/hisham-elbreky/Architecture-Time/blob/main/Diagrams/Conceptual%20Ref%20Architecture.png) 
